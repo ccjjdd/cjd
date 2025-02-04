@@ -1176,7 +1176,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000392?virtualDomain=01
 http://124.90.44.40:6060/010/2/00000001000000060000000000000478?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000394?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视  
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000449?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://json.doube.eu.org/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000450?virtualDomain=010.live_hls.zte.com
@@ -1534,3 +1534,5 @@ http://192.168.123.208:35456/jump?url=http%3A%2F%2F192.168.123.208%3A35455%2Fitv
 http://192.168.123.208:35456/jump?url=http%3A%2F%2F192.168.123.208%3A35455%2Fitv%2F5000000011000031121.m3u8%3Fcdn%3Dbestzb$itv
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://json.doube.eu.org/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://192.168.123.208:35456/jump?url=http%3A%2F%2F192.168.123.208%3A35455%2Fitv%2F1000000002000013359.m3u8%3Fcdn%3Dystenlive$itv
+
+
