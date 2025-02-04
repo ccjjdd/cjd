@@ -1282,10 +1282,18 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000785?virtualDomain=01
 http://124.90.44.40:6060/010/2/00000001000000060000000000000786?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省内",杭州导视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省内",绍兴一套  
-http://124.90.44.40:6060/010/2/00000001000000060000000000000496?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省内",温州一套  
 http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",绍兴一套  
+http://124.90.44.40:6060/010/2/00000001000000060000000000000496?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://json.doube.eu.org/logo/CETV1.png" group-title="卫视频道",中国教育1
 http://124.90.44.40:6060/010/2/00000001000000060000000000000432?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://json.doube.eu.org/logo/CETV4.png" group-title="卫视频道",中国教育4
