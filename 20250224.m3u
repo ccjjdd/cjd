@@ -45,7 +45,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000793?virtualDomain=01
 http://124.90.44.40:6060/010/2/00000001000000060000000000000477?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="央视频道",CCTV15 音乐
- http://124.90.44.40:6060/010/2/00000001000000060000000000000437?virtualDomain=010.live_hls.zte.com
+http://124.90.44.40:6060/010/2/00000001000000060000000000000437?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
 http://124.90.44.40:6060/010/2/01000010000000060000000000002805?virtualDomain=010.live_hls.zte.com
